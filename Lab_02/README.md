@@ -2,7 +2,7 @@
 - `sor.cpp` - solution to cellular sorting (sortowanie komórkowe) problem
 
 ## Original task description
-[original task (in polish)](./Lab_01/sor.pdf)
+[original task (in polish)](./sor.pdf)
 
 ## Task: Cellular Sorting
 
