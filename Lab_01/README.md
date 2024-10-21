@@ -4,7 +4,7 @@
 
 ## "Bazarek" assignment
 ### Original task description
-[original task (in polish)](./Lab_01/bazarek.pdf)
+[original task (in polish)](./bazarek.pdf)
 
 ### Task: Grandma Bajtula's Market Shopping
 
@@ -25,7 +25,7 @@ Your program should output `m` lines. In the `i`-th line (for i = 1, . . . , m),
 
 ## "Matryca" assignment
 ### Original task description
-[original task (in polish)](./Lab_01/matryca.pdf)
+[original task (in polish)](./matryca.pdf)
 
 ### Task: Bajtocki Printing House's Striped Wallpaper
 
