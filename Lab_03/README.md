@@ -1,5 +1,5 @@
 # Games (Mecze)
-- `mecze.cpp` - solution to cellular sorting Games (Mecze) problem
+- `mecze.cpp` - solution to Games (Mecze) problem
 
 ## Original task description
 [original task (in polish)](./Lab_03/mecze.pdf)
