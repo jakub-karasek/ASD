@@ -45,62 +45,7 @@ i
 k
 ​
   such that 
-1
-≤
-𝑖
-1
-<
-𝑖
-2
-<
-⋯
-<
-𝑖
-𝑘
-≤
-𝑛
-1≤i 
-1
-​
- <i 
-2
-​
- <⋯<i 
-k
-​
- ≤n and 
-𝑎
-𝑖
-1
->
-𝑎
-𝑖
-2
->
-⋯
->
-𝑎
-𝑖
-𝑘
-a 
-i 
-1
-​
- 
-​
- >a 
-i 
-2
-​
- 
-​
- >⋯>a 
-i 
-k
-​
- 
-​
- .
+1 ≤ i1 < i2 < . . . < ik ≤ n and ai1 > ai2 > . . . > aik
 
 Your task is to determine the number of k-inversions in the given permutation.
 
